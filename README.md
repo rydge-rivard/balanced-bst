@@ -1,2 +1,3 @@
 # balanced-bst
-Building a balanced BST.
+
+Building a balanced binary search tree.
